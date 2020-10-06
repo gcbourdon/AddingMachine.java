@@ -20,6 +20,7 @@ public class AddingMachine {
         myCalculator.subtract(2);
         myCalculator.add(5);
         System.out.println(myCalculator.toString());
+        myCalculator.clear();
     }
 
     //Constructor for the AddingMachine class.
